@@ -1,0 +1,167 @@
+body
+{
+	background-color:  #212121;
+	color: #fff;
+}
+p
+{
+	padding: 20px 0 20px;
+}
+h2
+{
+	font-size: 3rem;
+}
+#title
+{
+	background-color: #212121;
+
+}
+#about-us
+{
+	padding: 7% 0 7%;
+	text-align: center;
+}
+#portfolio
+{
+	padding: 7% 0 18%;
+	text-align: center;
+	background-color: #323232;
+}
+#collage
+{
+	margin-top: -11%;
+}
+.nav-padd
+{
+	padding: 10px 0;
+}
+.navbar-header
+{
+	font-size: 2rem;
+	color: #fff;
+	font-weight: bold;
+}
+.navbar-elements
+{
+	padding: 0 25px !important;
+	font-size: 1.2rem;
+	color: #fff;
+	font-weight: bold;
+}
+.bg-image
+{
+	background-image: url("../images/hero-bg.jpg");
+	background-size: cover;
+}
+.top-heading
+{
+	padding: 45% 0 0;
+	color: #fff;
+	font-size: 4rem;
+}
+.title-button
+{
+	margin-bottom: 30%;
+}
+.abt-data
+{
+	padding-left: 70px;
+	padding-top: 30px;
+	line-height: 1.5rem;
+	text-align: left;
+}
+.about-image img
+{
+	width: 100%;
+}
+.highlight-span
+{
+	color: #ff427f;
+	font-size: 1rem;
+	margin: 10px 0 10px;
+	display: block;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.services
+{
+	padding: 7% 0 0;
+}
+.service-image
+{
+	padding: 10% 0;
+}
+.service-image img
+{
+	height: 53px;
+}
+.services-intro
+{
+	padding: 0 0 7%;
+}
+.custom-class
+{
+	background-color: #323232;
+	padding : 20px 20px 40px;
+	border-bottom: solid;
+	border-color: transparent;
+	transition: 0.3s;
+}
+.custom-class:hover
+{
+	border-bottom: solid;
+	border-color: #ff427f;
+
+}
+.portfolio-img
+{
+	position: relative;
+}
+.portfolio-img img
+{
+	width: 100%;
+}
+
+.colm-padd
+{
+	padding: 0;
+}
+.inner-colm-padd
+{
+	padding: 0;
+}
+.small-img
+{
+	padding: 0 15px 0;
+}
+.events
+{
+	padding: 7% 0 7%;
+}
+.icon-div
+{
+	
+}
+.fa-icon
+{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	width: 10px;
+	height: 10px;
+	display: none;
+	 
+}
+.portfolio-img :hover + .icon-div > a
+{
+    color: #ff427f;
+    display: inline-block;
+
+}
+.navbar-elements:hover
+{
+	color: #ff427f;
+}
